@@ -1,0 +1,6 @@
+Searching for: ('xpath', "//p[@class='⭐️f6lmuc-0 menu-hover text-sm font-medium text-nowrap leading-6'][normalize-space()='Courses']")
+Element found.
+Searching for: ('xpath', "//p[@class='⭐️f6lmuc-0 menu-hover text-sm font-medium text-nowrap leading-6'][normalize-space()='LIVE Classes']")
+Element found.
+Searching for: ('xpath', "//p[@class='⭐️f6lmuc-0 menu-hover text-sm font-medium text-nowrap leading-6'][normalize-space()='Practice']")
+Element found.
